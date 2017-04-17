@@ -11,6 +11,13 @@ Here are a few examples of how to use the email package to read, write, and send
 3. To send a mail with attached file like text file, pdf files, images, audio files, the code is in the `mail_attachment.py <https://github.com/kumarisneha/send_email_Python/blob/master/mail_attachment.py>`_ .
 4. To create and send a simple text message, the code is in the `read_write_mail.py <https://github.com/kumarisneha/send_email_Python/blob/master/read_write_mail.py>`_ .
 
+Clone the repository
+********************
+Now open the terminal and run this command 
+::
+
+    $ git clone https://github.com/kumarisneha/send_email_Python.git
+
 Running the code:
 *****************
 Now open a terminal at the project root and run this command.
